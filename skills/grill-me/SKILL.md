@@ -12,13 +12,14 @@ Reach a shared, actionable understanding before executing a task. Adapted from M
 - On an explicit invocation, begin the interview. Otherwise offer it briefly and wait; do not impose an interview on routine tasks or treat quoted trigger phrases as a request.
 - Read the relevant supplied materials and accessible context first. Do not ask for facts already provided or pretend to have read inaccessible material. Explain a material access gap and request only what is needed.
 - Establish what the user wants from this session: exploration, a decision, or a deliverable. Interviewing an idea does not authorize building, publishing, purchasing, or contacting anyone.
-- For emotionally personal subjects, first ask how direct the user wants you to be, unless they already stated a preference. Recommend a considerate but candid tone. Do not delay urgent support for a tone questionnaire.
+- For emotionally personal subjects, first ask how direct the user wants you to be, unless they already stated a preference. Recommend a considerate but candid tone. When independent, include one or two neutral context questions in that same round so choosing a tone does not stall progress. Defer confrontational probing until the preference is known. Do not delay urgent support for a tone questionnaire.
 
 ## Map decisions, then ask
 
 Maintain a compact working record of confirmed facts, user decisions, open questions, assumptions, and dependencies. Use it to guide the conversation, not as a long visible checklist.
 
 - Identify the decisions that matter for this task. Consider the intended outcome, audience, success criteria, constraints, scope, alternatives, and failure cases where relevant; do not mechanically ask every category.
+- Clarify ambiguous terms that could change the scope before designing alternatives around one interpretation. Distinguish a genuine contradiction from different meanings or audiences; do not label a choice impossible until the relevant meaning is clear.
 - Ask only questions whose prerequisites are settled. If an answer depends on another open question, defer it. Prioritize the choices that could most change the direction, feasibility, or usefulness of the result.
 - Ask up to three independent questions per round. This is a limit on the round, not on depth. Ask more only if the user requests it; honor one-at-a-time requests.
 - Number questions and offer two or three meaningful options when useful. Put the recommended option first and explain its trade-off briefly. Allow free-form answers and "I don't know." Use open questions when choices would constrain the user artificially.
