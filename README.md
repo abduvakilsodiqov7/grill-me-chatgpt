@@ -2,6 +2,10 @@
 
 [Русский](#русский) | [English](#english)
 
+[Comparison with the original and validation results / Сравнение с оригиналом и результаты проверок](docs/validation.md)
+
+Tested adaptation; see the report for the six paired scenarios, fixes, and remaining limits. / Проверенная адаптация: шесть парных сценариев, исправления и ограничения описаны в отчёте.
+
 <a id="english"></a>
 ## English
 
